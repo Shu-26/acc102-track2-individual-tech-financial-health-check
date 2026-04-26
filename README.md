@@ -70,8 +70,8 @@ pip install -r requirements.txt
 
 ## 6. Product Link & Demo
 
-- **GitHub Repository**: 
-- **Demo Video** (1–3 min): 
+- **GitHub Repository**: [https://github.com/Shu-26/acc102-track2-individual-tech-financial-health-check/blob/main/ACC102-individual%20work.ipynb]
+- **Demo Video** : 
 
 ## 7. Limitations & Next Steps
 
