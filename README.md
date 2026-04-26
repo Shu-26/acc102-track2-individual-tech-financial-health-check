@@ -1,4 +1,4 @@
-# acc102 track2 Technology Sector Financial Health Check
+# ACC102 track2 Technology Sector Financial Health Check
 
 A Python data product that helps everyday investors compare the financial performance of U.S. technology companies against their industry peers.
 
@@ -50,7 +50,6 @@ Using Microsoft (MSFT) and Alphabet (GOOGL) as test companies, the product shows
 ```bash
 pip install -r requirements.txt
 ```
-```
 
 ### Execution
 
@@ -71,8 +70,8 @@ pip install -r requirements.txt
 
 ## 6. Product Link & Demo
 
-- **GitHub Repository**: [https://github.com/Shu-26/acc102-track2-individual-tech-financial-health-check](https://github.com/Shu-26/acc102-track2-individual-tech-financial-health-check)
-- **Demo Video** (1–3 min): *[Insert your video link here]*
+- **GitHub Repository**: 
+- **Demo Video** (1–3 min): 
 
 ## 7. Limitations & Next Steps
 
@@ -81,8 +80,3 @@ pip install -r requirements.txt
 - Valuation is assessed only through the P/B ratio; other multiples such as P/E or EV/EBITDA are not included.
 - Industry classification may be imperfect, and outlier filtering can affect benchmark values.
 - Future improvements could include broader industry coverage, quarterly data, additional valuation metrics, weighted medians by market capitalisation, and a simple Streamlit interface.
-
-## 8. AI Use Disclosure (Summary)
-
-AI tools (XJTLU AI Agent, DeepSeek, and Doubao) were used during this project to help clarify assignment requirements, narrow down the industry focus, draft the initial README structure, generate template text for chart commentaries, debug code errors, check grammar, and guide the GitHub upload process. All AI‑generated suggestions were reviewed, modified, and verified by me. The analytical decisions, final code, and written report reflect my own understanding and work. Full details are provided in the reflective report.
-```
