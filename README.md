@@ -46,9 +46,11 @@ Using Microsoft (MSFT) and Alphabet (GOOGL) as test companies, the product shows
 - Python 3.8 or later.
 - The packages listed in `requirements.txt`.
 
-### Setup 
+### Setup
 ```bash
 pip install -r requirements.txt
+```
+```
 
 ### Execution
 
